@@ -1,5 +1,5 @@
 # Getting Started with the React Diagram Component
-A quick-start React application that shows how to easily create and modify React Diagram Component. It explains how to create, add and customize nodes and connectors in the diagram component.
+A quick-start React application that shows how to easily create and modify [React Diagram](https://www.syncfusion.com/react-components/react-diagram) Component. It explains how to create, add and customize nodes and connectors in the diagram component.
    
 Refer to the following documentation to learn about the React Diagram Component: 
 https://ej2.syncfusion.com/react/documentation/diagram/getting-started#dependencies
